@@ -1,0 +1,5 @@
+{
+    "JWT_SECRET": "secretString", //to generate JWT tokens.
+    "POSTMARK_API_TOKEN": "token",
+    "FROM_EMAIL": "CRUD@CRUD.com"
+}
